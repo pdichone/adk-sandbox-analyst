@@ -1,0 +1,7 @@
+.env
+analyst/.env
+.venv/
+__pycache__/
+*.pyc
+.adk/
+.gcloudignore.bak
